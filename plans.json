@@ -1,0 +1,41 @@
+[
+  {
+    "id": "monthly",
+    "name": "Monthly",
+    "plates": 1,
+    "price": 1500,
+    "billingCycle": "per month",
+    "perks": [
+      "Full gym floor access",
+      "1 group class per week",
+      "Locker access during visits"
+    ]
+  },
+  {
+    "id": "halfyearly",
+    "name": "Half-Yearly",
+    "plates": 2,
+    "price": 7500,
+    "billingCycle": "every 6 months",
+    "perks": [
+      "Full gym floor access",
+      "Unlimited group classes",
+      "1 personal training session/month",
+      "Dedicated locker"
+    ]
+  },
+  {
+    "id": "annual",
+    "name": "Annual",
+    "plates": 3,
+    "price": 13000,
+    "billingCycle": "per year",
+    "perks": [
+      "Full gym floor access",
+      "Unlimited group classes",
+      "2 personal training sessions/month",
+      "Dedicated locker + towel service",
+      "Free nutrition consult"
+    ]
+  }
+]
